@@ -26,11 +26,10 @@ I'm currently pursuing a Bachelor's degree in Information Systems at the Federal
 - **DevOps & Tools**: Docker, Git, Postman, Cypress, Automated Testing
 
 ### 🎓 Academic Highlights
-- **Current GPA**: 8.0/10.0
 - **Key Courses Completed**:
   - Object-Oriented Programming (Grade: 9.0)
   - Data Structures (Grade: 8.5)
-  - Object-Oriented Programming Development (Grade: 8.5)
+  - Object-Oriented Programming Development (Grade: 8.0)
 - **Ongoing Courses**:
   - Operating Systems
   - Databases I
