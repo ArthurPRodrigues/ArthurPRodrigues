@@ -56,7 +56,7 @@ Nov 2023 - Present
 
 ### 🌍 Languages
 - Portuguese (Native)
-- English (B2)
+- English (C1)
 - Spanish (B1)
 - German (A1)
 - Italian (A1)
