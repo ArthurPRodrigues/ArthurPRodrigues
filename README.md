@@ -1,4 +1,4 @@
-# Arthur Paulo Rodrigues 👋
+# Arthur Paulo Rodrigues 
 
 ## Technologies I Use
 
