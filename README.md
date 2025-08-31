@@ -31,8 +31,11 @@ I'm currently pursuing a Bachelor's degree in Information Systems at the Federal
   - Data Structures (Grade: 8.5)
   - Object-Oriented Programming Development (Grade: 8.0)
 - **Ongoing Courses**:
-  - Operating Systems
-  - Databases I
+  - Databases 2
+  - Systems Analysis and Design
+  - Mobile and Embedded Systems Development
+  - Computer Networks
+  - IT Business Plan 
 
 ### 💼 Professional Experience
 **Software Quality Assurance (QA) Intern**  
@@ -44,15 +47,6 @@ Nov 2023 - Present
 - Create test scenarios to ensure requirement coverage and delivery quality
 - Work as integrated QA in agile development teams
 
-### 🏆 Projects
-**Academic Projects**:
-- **Asset Management System** (Backend Developer): Developed a web application for academic environment asset management using JavaScript, Node.js, Express, and MongoDB
-- **Music Player** (Backend Developer): Created a Python-based music player implementing linked lists and doubly linked lists
-
-**Personal Projects**:
-- **Photo Management System**: Full-stack application using Java/Spring Boot, React, PostgreSQL, and Docker
-- **Professional Webpage** (Frontend Developer): Built a personal portfolio website using HTML/CSS
-
 
 ### 🌍 Languages
 - Portuguese (Native)
@@ -63,5 +57,4 @@ Nov 2023 - Present
 
 ## Contact
 📧 Email: [arthurprodrigues1@gmail.com](mailto:arthurprodrigues1@gmail.com)  
-📱 Phone: +55 11 99805-0108  
-💼 GitHub: [https://github.com/ArthurPRodrigues](https://github.com/ArthurPRodrigues)
+📱 Phone: +55 (11) 99805-0108  
