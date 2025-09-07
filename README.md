@@ -25,29 +25,6 @@ I'm currently pursuing a Bachelor's degree in Information Systems at the Federal
 - **Front-End**: React, HTML/CSS
 - **DevOps & Tools**: Docker, Git, Postman, Cypress, Automated Testing
 
-### 🎓 Academic Highlights
-- **Key Courses Completed**:
-  - Object-Oriented Programming (Grade: 9.0)
-  - Data Structures (Grade: 8.5)
-  - Object-Oriented Programming Development (Grade: 8.0)
-- **Ongoing Courses**:
-  - Databases 2
-  - Systems Analysis and Design
-  - Mobile and Embedded Systems Development
-  - Computer Networks
-  - IT Business Plan 
-
-### 💼 Professional Experience
-**Software Quality Assurance (QA) Intern**  
-*Bridge Laboratory - Federal University of Santa Catarina*  
-Nov 2023 - Present  
-- Conduct unit, integration, and automated testing for solutions developed for the Ministry of Education
-- Perform API testing with Postman and UI automated testing with Cypress
-- Validate functionalities in mobile apps and web systems developed with Java/Spring Boot
-- Create test scenarios to ensure requirement coverage and delivery quality
-- Work as integrated QA in agile development teams
-
-
 ### 🌍 Languages
 - Portuguese (Native)
 - English (C1)
